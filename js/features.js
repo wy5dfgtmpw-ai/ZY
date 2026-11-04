@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = './js/Silence.m4a';
+    var SRC = 'https://raw.githubusercontent.com/SillyTavern/Extension-Silence/main/silence.m4a';
     var _audio = null;
     var _unlockBound = false;
 
